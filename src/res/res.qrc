@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="app">
+    <file>5.png</file>
+    <file>t.svg</file>
+  </qresource>
+</RCC>

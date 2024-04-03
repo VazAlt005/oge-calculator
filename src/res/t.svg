@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
+    width='228.36782pt' height='86.63302pt' viewBox='-.00021 268.39059 228.36782 86.63302'>
+    <g id='page1' transform='matrix(2 0 0 2 0 0)'>
+        <path d='M.3984 177.1133L28.7461 134.5938H99.6133L113.7853 177.1133Z' stroke='#7d7d7d'
+            fill='none' stroke-width='.79701' />
+        <path d='M28.7461 134.5938V177.1133' stroke='#7d7d7d' fill='none' stroke-width='.79701'
+            stroke-miterlimit='10' />
+        <path d='M23.0781 177.1133V171.4453H28.7461' stroke='#7d7d7d' fill='none' stroke-width='.79701'
+            stroke-miterlimit='10' />
+    </g>
+</svg>
